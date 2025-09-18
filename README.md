@@ -21,13 +21,14 @@ What stands out most is the culture:
 
 Here are some of the spaces, communities, and programs that make Waterloo unique (my pitch-style descriptions):  
 
-- **Socratica** — weekly Sunday co-working for young makers, a grassroots movement born here  
-- **Builders Club** (with StartupCamp, AI Thinkers, AI Collectives & more) — a community-led co-working hub for very early-stage entrepreneurs (think the “-1 to 0” stage, like SF’s South Park Commons)  
-- **Hackathons** — *Hack the North*, *EngHacks*, *JAMHacks*, and more keep the maker spirit alive year-round  
-- **Akatos Hacker House** — a living room with couches where local & global founders (and VCs) hang out, collaborate, and sometimes crash overnight  
-- **Velocity Dungeon, Velocity Digital, WLU StartUp Lab** — student-driven startup spaces, open and welcoming to the broader community  
-- **Accelerator Centre, Velocity, Communitech** — incubators that help startups access resources and connect with opportunities  
-- **Den 1880 & Catalyst 137** — co-working offices that connect the broader community and scale-up companies  
+- [**Socratica**](https://www.socratica.info/) — weekly Sunday co-working for young makers, a grassroots movement born in Waterloo  
+- [**Socratica Symposium**](https://welcome.socratica.info/) — annual showcase event that gathers the community  
+- [**Builders Club**](https://buildersclub.ca/) (with StartupCamp, [AI Tinkerers](https://waterloo.aitinkerers.org/), [AI Collective](https://www.aicollective.com/), & more) — a community-led co-working hub for very early-stage entrepreneurs (think the “-1 to 0” stage, like SF’s South Park Commons)  
+- **Hackathons** — [Hack the North](https://hackthenorth.com/), [EngHacks](https://www.hackathon.com/event/enghack-25631197602), [JAMHacks](https://2024.jamhacks.ca/) and more keep the maker spirit alive year-round  
+- [**Akatos Hacker House**](https://www.akatos.house/) — a living room with couches where Waterloo and global founders & VCs hang out, collaborate, and sometimes crash overnight  
+- **Velocity student spaces** — [Velocity Digital](https://www.velocityincubator.com/programs-events/student-spaces), Velocity Dungeon, and WLU [StartUp Lab](https://students.wlu.ca/work-leadership-and-volunteering/entrepreneurship/startup-lab/index.html) — student-driven startup spaces, open and welcoming to the broader community  
+- [**Accelerator Centre**](https://www.acceleratorcentre.com/), [**Velocity Incubator**](https://www.velocityincubator.com/), [**Communitech**](http://www.communitech.ca/) — incubators that help startups access resources and connect with opportunities  
+- [**Den 1880**](https://www.den1880.co/) & [**Catalyst 137**](https://catalyst-137.com/) — co-working offices that connect the broader community and scale-up companies  
 
 ---
 
