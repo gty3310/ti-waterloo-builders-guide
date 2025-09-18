@@ -1,8 +1,6 @@
 # 🌟 Waterloo Builder & Startup Guide
 
-A short guide for entrepreneurs, builders, and tech people interested in exploring Waterloo.  
-Inspired by the first-ever **Waterloo Tech Week (Sept 8–11, 2025)**.  
-(Full program: [waterlootechweek.ca](https://waterlootechweek.ca/))
+An open-sourced short guide for entrepreneurs, builders, and tech people interested in exploring Waterloo.  
 
 ---
 
@@ -61,7 +59,7 @@ If you Are also really into the Waterloo's startup & tech ecosystem and want to 
 
 ---
 
-## 🤝 How to Contribute
+## 🤝 How to Contribute to This Guide
 
 This guide is open-source and community-driven.  
 If you have:  
