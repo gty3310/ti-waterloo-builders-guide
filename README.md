@@ -56,7 +56,7 @@ Spaces to Work with Builders
 
 ---
 
-## 🤝 How to Contribute to This Guide
+## 🤝 Anyone Can Contribute to This Guide!
 
 This guide is open-source and community-driven.  
 If you have:  
