@@ -37,6 +37,15 @@ Spaces to Work with Builders
 - Campus-based builders spaces open to all: [Velocity Digital](https://www.velocityincubator.com/programs-events/student-spaces), Velocity Dungeon, and WLU [StartUp Lab](https://students.wlu.ca/work-leadership-and-volunteering/entrepreneurship)  
 - In-person nonprofit incubators: [Accelerator Centre](https://www.acceleratorcentre.com/), [Velocity Incubator](https://www.velocityincubator.com/), [Communitech](http://www.communitech.ca/)  
 
+
+---
+
+## 🗺️ Other Guides about Waterloo
+
+- [Where to get help for your startup in Waterloo Region (BitBakery)](https://www.bitbakery.co/blog/where-to-get-help-for-your-startup-in-waterloo-region)  
+- [Student’s Startup Guide to the University of Waterloo (Jonny Hsu)](https://jonnyhsu.substack.com/p/students-guide-to-the-university)  
+- [Waterloo Startup Resource List (Founder Institute)](https://fi.co/insight/waterloo-startup-resource-list-400-accelerators-investors-and-more)
+
 ---
 
 ## 👤 About the Editors of This Doc (Listed Alphabetically)
