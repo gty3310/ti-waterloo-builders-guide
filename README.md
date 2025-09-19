@@ -20,8 +20,8 @@ If you’re planning a trip, here are the **two best times of year**:
 ---
 ## 💡 Top Places to Find Events for Builders   
 
-- [lu.ma Waterloo](https://lu.ma/waterloo_ca) Event List
-- [lu.ma Waterloo Events](https://lu.ma/waterlooevents) Event List
+- [lu.ma/Waterloo_ca](https://lu.ma/waterloo_ca) Event List
+- [lu.ma/WaterlooEvents](https://lu.ma/waterlooevents) Event List
 
 ---
 
@@ -39,11 +39,11 @@ Spaces to Work with Builders
 
 ---
 
-## 👤 About the Creator of this(s)
-**(Ti Guo)[https://tiguo.notion.site/] (Original Creator):**  
-UW alumnus and community builder with 10+ years in Waterloo’s startup ecosystem. Co-led initiatives like Effective Altruism Waterloo, Socratica, hackathons, and Waterloo Mr. Beast–inspired co-working experiment.  Now working between Waterloo, SF, and Toronto as a superconnector and AI engineer.
-
-If you Are also really into the Waterloo's startup & tech ecosystem and want to join us as a co-creator, let Ti know. 
+## 👤 About the editors of this doc (List Alphabetically)
+Brenda Li: Co-organizer of Akatos House
+(Jesse Rodgers)[https://buildersclub.ca/]: Organizer of Builders Club
+Jerry Jiang: Co-organizer of Akatos House
+(Ti Guo)[https://tiguo.notion.site/]: Tech Community builder & Engineer, working between Waterloo, SF, and Toronto. Cofounder of initiatives like Effective Altruism Waterloo, and Waterloo Mr. Beast–inspired co-working experiment.  
 
 ---
 
@@ -55,7 +55,7 @@ If you have:
 - Additional resources or places to add  
 - Corrections or updates  
 
-please feel free to **open an issue, submit a pull request, or share your thoughts**.  
+Please feel free to **open an issue, submit a pull request if you want to contribute**.  
 
 Waterloo is built on collaboration — this guide should be too.  
 
