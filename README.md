@@ -34,7 +34,7 @@ Hacker Houses
 
 Spaces to Work with Builders  
 - Paid spaces: [Builders Club](https://buildersclub.ca/) — a co-working hub for very early-stage entrepreneurial builders (like SF [South Park Commons](https://www.southparkcommons.com/)' "-1 to 0" mode builders). [Den 1880](https://www.den1880.co/) & [Catalyst 137](https://catalyst-137.com/) — co-working offices connecting the broader community and scale-up companies  
-- Campus-based builders spaces open to all: [Velocity Digital](https://www.velocityincubator.com/programs-events/student-spaces), Velocity Dungeon, and WLU [StartUp Lab](https://students.wlu.ca/work-leadership-and-volunteering/entrepreneurship)  
+- Campus-based builders spaces open to all: [Velocity Digital](https://www.velocityincubator.com/programs-events/student-spaces), Velocity Dungeon, and [WLU StartUp Lab](https://students.wlu.ca/work-leadership-and-volunteering/entrepreneurship)  
 - In-person nonprofit incubators: [Accelerator Centre](https://www.acceleratorcentre.com/), [Velocity Incubator](https://www.velocityincubator.com/), [Communitech](http://www.communitech.ca/)  
 
 
