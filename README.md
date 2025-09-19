@@ -40,11 +40,8 @@ Spaces to Work with Builders
 ---
 
 ## 👤 About the Creator of this(s)
-
-Ti Guo (Original Creator, https://tiguo.notion.site/): I’ve been part of the Waterloo ecosystem for over 10 years as an alumnus of the University of Waterloo, founder, and community builder.  
-Over the years, I’ve:  
-- With Family based in waterloo, lived, studied, and built in Waterloo’s startup community
-- Cofounded initiatives such as **Mr. Beast–inspired co-working experiment**, **Effective Altruism Waterloo**, helped with organizing initiatives such as **Socratica**, and multiple hackahtons
+**(Ti Guo)[https://tiguo.notion.site/] (Original Creator):**  
+UW alumnus and community builder with 10+ years in Waterloo’s startup ecosystem. Co-led initiatives like Effective Altruism Waterloo, Socratica, hackathons, and Waterloo Mr. Beast–inspired co-working experiment.  Now working between Waterloo, SF, and Toronto as a superconnector and AI engineer.
 
 If you Are also really into the Waterloo's startup & tech ecosystem and want to join us as a co-creator, let Ti know. 
 
