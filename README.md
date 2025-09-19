@@ -6,55 +6,45 @@ An open-sourced short guide for entrepreneurs, builders, and tech people interes
 
 ## 🏙️ Why Waterloo?
 
-Waterloo has long supported entrepreneurs with resources, mentors, and friendships.  
-It may not be everyone’s permanent base — but it’s certainly a place worth returning to.  
+- Founders and mentors often share advice generously, with less focus on status or transactions.
+- The community is tight and practical — if you’re good at something, it’s easier to team up and start building without spending too much time proving yourself.
 
-What stands out most is the culture:  
-- People connect warmly, without status or hierarchy  
-- Mentorship and advice are shared generously, not transactionally  
-- The scale of the city makes it easy to build meaningful relationships  
-- Startup projects often come from a close-knit circle of people building together  
+---
+
+## 🗓️ Visiting Waterloo
+
+If you’re planning a trip, here are the **two best times of year**:  
+- **March** → during the week of [Socratica Symposium](https://welcome.socratica.info/), known as “the world’s greatest demo day”, brings together thousands of builders from all over the world to share projects and passion from art to tech
+- **September** → during the week before [Hack the North](https://hackthenorth.com/), the Canada's largest hackathon
+
+---
+## 💡 Top Places to Find Events for Builders   
+
+- [lu.ma Waterloo](https://lu.ma/waterloo_ca) Event List
+- [lu.ma Waterloo Events](https://lu.ma/waterlooevents) Event List
 
 ---
 
 ## 🗺️ Ecosystem Highlights
+Best Communities for Builders  
+- [Socratica](https://www.socratica.info/) — weekly Sunday co-working for young makers, a global movement born in Waterloo  
 
-Here are some of the spaces, communities, and programs that make Waterloo unique (my pitch-style descriptions):  
+Hacker Houses  
+- [Akatos Hacker House](https://www.akatos.house/) — a living room where Waterloo and global founders & VCs hang out, like AGI House SF
 
-- [**Socratica**](https://www.socratica.info/) — weekly Sunday co-working for young makers, a grassroots movement born in Waterloo  
-- [**Socratica Symposium**](https://welcome.socratica.info/) — annual showcase event that gathers the community  
-- [**Builders Club**](https://buildersclub.ca/) (with StartupCamp, [AI Tinkerers](https://waterloo.aitinkerers.org/), [AI Collective](https://www.aicollective.com/), & more) — a community-led co-working hub for very early-stage entrepreneurs (think the “-1 to 0” stage, like SF’s South Park Commons)  
-- **Hackathons** — [Hack the North](https://hackthenorth.com/), [EngHacks](https://www.hackathon.com/event/enghack-25631197602), [JAMHacks](https://2024.jamhacks.ca/) and more keep the maker spirit alive year-round  
-- [**Akatos Hacker House**](https://www.akatos.house/) — a living room with couches where Waterloo and global founders & VCs hang out, collaborate, and sometimes crash overnight  
-- **Velocity student spaces** — [Velocity Digital](https://www.velocityincubator.com/programs-events/student-spaces), Velocity Dungeon, and WLU [StartUp Lab](https://students.wlu.ca/work-leadership-and-volunteering/entrepreneurship/startup-lab/index.html) — student-driven startup spaces, open and welcoming to the broader community  
-- [**Accelerator Centre**](https://www.acceleratorcentre.com/), [**Velocity Incubator**](https://www.velocityincubator.com/), [**Communitech**](http://www.communitech.ca/) — incubators that help startups access resources and connect with opportunities  
-- [**Den 1880**](https://www.den1880.co/) & [**Catalyst 137**](https://catalyst-137.com/) — co-working offices that connect the broader community and scale-up companies  
-
----
-
-## 🚀 What’s Next
-
-I’m excited to help grow the **AI Learning & Technical Community** at Startup Camp Waterloo.  
-We’ll share updates soon on projects, learning cohorts, and courses.  
+Spaces to Work with Builders  
+- Paid spaces: [Builders Club](https://buildersclub.ca/) — a co-working hub for very early-stage entrepreneurial builders (like SF’s South Park Commons' "-1 to 0" mode builders)  [Den 1880](https://www.den1880.co/) & [Catalyst 137](https://catalyst-137.com/) — co-working offices connecting the broader community and scale-up companies  
+- Campus-based spaces open to all: [Velocity Digital](https://www.velocityincubator.com/programs-events/student-spaces), Velocity Dungeon, and WLU [StartUp Lab](https://students.wlu.ca/work-leadership-and-volunteering/entrepreneurship)  
+- In-person nonprofit incubators: [Accelerator Centre](https://www.acceleratorcentre.com/), [Velocity Incubator](https://www.velocityincubator.com/), [Communitech](http://www.communitech.ca/)  
 
 ---
 
-## 💡 Visiting Waterloo
-
-If you’re planning a trip, here are the **two best times of year**:  
-- **April** → during *Socratica Symposium Week*  
-- **September** → during the week around *Hack the North*  
-
-If you’d like to visit any of the spaces above, feel free to reach out — I’d be happy to make introductions.  
-
----
-
-## 👤 About the Creator(s)
+## 👤 About the Creator of this(s)
 
 Ti Guo (Original Creator, https://tiguo.notion.site/): I’ve been part of the Waterloo ecosystem for over 10 years as an alumnus of the University of Waterloo, founder, and community builder.  
 Over the years, I’ve:  
 - With Family based in waterloo, lived, studied, and built in Waterloo’s startup community
-- Cofounded initiativs such as **Mr. Beast–inspired co-working experiment**, **Effective Altruism Waterloo**, helped with organizing initiatives such as **Socratica**, and multiple hackahtons
+- Cofounded initiatives such as **Mr. Beast–inspired co-working experiment**, **Effective Altruism Waterloo**, helped with organizing initiatives such as **Socratica**, and multiple hackahtons
 
 If you Are also really into the Waterloo's startup & tech ecosystem and want to join us as a co-creator, let Ti know. 
 
