@@ -40,10 +40,10 @@ Spaces to Work with Builders
 ---
 
 ## 👤 About the editors of this doc (List Alphabetically)
-Brenda Li: Co-organizer of Akatos House
-(Jesse Rodgers)[https://buildersclub.ca/]: Organizer of Builders Club
-Jerry Jiang: Co-organizer of Akatos House
-(Ti Guo)[https://tiguo.notion.site/]: Tech Community builder & Engineer, working between Waterloo, SF, and Toronto. Cofounder of initiatives like Effective Altruism Waterloo, and Waterloo Mr. Beast–inspired co-working experiment.  
+- Brenda Li: Co-organizer of Akatos House
+- (Jesse Rodgers)[https://buildersclub.ca/]: Organizer of Builders Club
+- Jerry Jiang: Co-organizer of Akatos House
+- (Ti Guo)[https://tiguo.notion.site/]: Tech Community builder & Engineer, working between Waterloo, SF, and Toronto. Cofounder of initiatives like Effective Altruism Waterloo, and Waterloo Mr. Beast–inspired co-working experiment.  
 
 ---
 
