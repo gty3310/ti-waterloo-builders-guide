@@ -33,18 +33,23 @@ Hacker Houses
 - [Akatos Hacker House](https://www.akatos.house/) — a living room & build space where Waterloo and global founders & VCs hang out, like [AGI House SF](https://agihouse.ai/)  
 
 Spaces to Work with Builders  
-- Paid spaces: [Builders Club](https://buildersclub.ca/) — a co-working hub for very early-stage entrepreneurial builders (like SF [South Park Commons](https://www.southparkcommons.com/)' "-1 to 0" mode builders). [Den 1880](https://www.den1880.co/) & [Catalyst 137](https://catalyst-137.com/) — co-working offices connecting the broader community and scale-up companies  
+- Paid spaces:
+  - [Builders Club](https://buildersclub.ca/) — a co-working hub for very early-stage entrepreneurial builders (like SF [South Park Commons](https://www.southparkcommons.com/)' "-1 to 0" mode builders).
+  - [Den 1880](https://www.den1880.co/) & [Catalyst 137](https://catalyst-137.com/) — co-working offices connecting the broader community and scale-up companies  
 - Campus-based builders spaces open to all: [Velocity Digital](https://www.velocityincubator.com/programs-events/student-spaces), Velocity Dungeon, and [WLU StartUp Lab](https://students.wlu.ca/work-leadership-and-volunteering/entrepreneurship)  
-- In-person nonprofit incubators: [Accelerator Centre](https://www.acceleratorcentre.com/), [Velocity Incubator](https://www.velocityincubator.com/), [Communitech](http://www.communitech.ca/)  
+- In-person nonprofit incubators:
+  - [Accelerator Centre](https://www.acceleratorcentre.com/): One of the World's Top 5 Private Business Accelerators
+  - [Velocity Incubator](https://www.velocityincubator.com/): Largest free startup incubator in North America
+  - [Communitech](http://www.communitech.ca/)  
 
 
 ---
 
 ## 🗺️ Other Guides about Waterloo
 
-- [Where to get help for your startup in Waterloo Region (BitBakery)](https://www.bitbakery.co/blog/where-to-get-help-for-your-startup-in-waterloo-region)  
-- [Student’s Startup Guide to the University of Waterloo (Jonny Hsu)](https://jonnyhsu.substack.com/p/students-guide-to-the-university)  
-- [Waterloo Startup Resource List (Founder Institute)](https://fi.co/insight/waterloo-startup-resource-list-400-accelerators-investors-and-more)
+- [Where to get help for your startup in Waterloo Region (BitBakery)](https://www.bitbakery.co/blog/where-to-get-help-for-your-startup-in-waterloo-region): Great read for locations in the city
+- [Student’s Startup Guide to the University of Waterloo (Jonny Hsu)](https://jonnyhsu.substack.com/p/students-guide-to-the-university): Great read for funding programs and student communities
+- [Waterloo Startup Resource List (Founder Institute)](https://fi.co/insight/waterloo-startup-resource-list-400-accelerators-investors-and-more): Everything in Waterloo Startup Ecosystem, except a bit outdated
 
 ---
 
