@@ -8,8 +8,8 @@ An open-sourced short guide for entrepreneurs, builders, and tech people interes
 
 - Founders and mentors often share advice generously, with less focus on status or transactions.
 - The community is tight and practical — **if you’re good at something, it’s easier to team up and start building without spending too much time proving yourself.**
-- "an amazing town ... the energy we saw very early on **parallels a lot of what we see in Silicon Valley ... there's an openness and there's a desire**." — Jack Dorsey, Co-Founder of Twitter
 - Waterloo Region has approximately 1,100 startups (in 2020) for a population of ~623,930 — giving it the **second-highest start-up density in the world** after Silicon Valley
+- "an amazing town ... the energy we saw very early on **parallels a lot of what we see in Silicon Valley ... there's an openness and there's a desire**." — Jack Dorsey, Co-Founder of Twitter
 
 ---
 
@@ -29,10 +29,10 @@ If you’re planning a trip, here are the **two best times of year**:
 
 ## 🗺️ Ecosystem Highlights
 Best Communities for Builders  
-- [Socratica](https://www.socratica.info/) — weekly Sunday co-working for young makers, a global movement born in Waterloo  
+- [Socratica](https://www.socratica.info/) — weekly Sunday co-working for young makers, a **global movement born in Waterloo**  
 
 Hacker Houses  
-- [Akatos Hacker House](https://www.akatos.house/) — a living room & build space where Waterloo and global founders & VCs hang out, **like [AGI House SF](https://agihouse.ai/) ** 
+- [Akatos Hacker House](https://www.akatos.house/) — a living room & build space where Waterloo and global founders & VCs hang out, **like [AGI House SF](https://agihouse.ai/)** 
 
 Communities + Spaces to Work with Builders  
 - Paid spaces:
