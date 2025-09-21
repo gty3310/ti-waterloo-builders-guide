@@ -38,9 +38,9 @@ Communites + Spaces to Work with Builders
   - [Den 1880](https://www.den1880.co/) & [Catalyst 137](https://catalyst-137.com/) — co-working offices connecting the broader community and scale-up companies  
 - Campus-based builders spaces open to all: [Velocity Digital](https://www.velocityincubator.com/programs-events/student-spaces), Velocity Dungeon, and [WLU StartUp Lab](https://students.wlu.ca/work-leadership-and-volunteering/entrepreneurship)  
 - In-person nonprofit incubators:
-  - [Accelerator Centre](https://www.acceleratorcentre.com/): One of the World's Top 5 Private Business Accelerators
-  - [Velocity Incubator](https://www.velocityincubator.com/): Largest free startup incubator in North America
-  - [Communitech](http://www.communitech.ca/)  
+  - [Velocity Incubator](https://www.velocityincubator.com/): Largest free startup incubator in North America. Pre-seed tech startups (for UWaterloo-affiliated founders only) who can commit full-time, willing to work from Velocity 1+ days/week, solving large problems. 
+  - [Accelerator Centre](https://www.acceleratorcentre.com/): Ideal for early-stage tech founders with verified traction (users/customers or pilots), ready to scale product and revenue. Open to anyone.
+  - [Communitech](http://www.communitech.ca/): For founders at any stage—student or non-student. Free “Connect” tier is open; paid tiers (Ignite, Thrive) offer deeper support for startups with product or revenue. 
 
 
 ---
